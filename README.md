@@ -8,7 +8,7 @@ Sıralama ve Arama algoritmalarının bulunduğu bir Java Projesidir.
 
 Öncelikle dizinin kaç elemanlı olduğunu belirliyorsunuz. Belirlediğiniz eleman sayısı kadar rastgele bir dizi üretilecektir.
 
-Sonrasında Sıralama algoritmalarından birini seçtiyseniz :
+Sonrasında Sıralama algoritmalarından birini seçtiyseniz:
 
 - Insertion sort algoritması
 - Merge sort algoritması
@@ -24,6 +24,6 @@ Arama algoritmalarından birini seçtiyseniz ise:
 - Linear search algoritması                                
 - Binary search algoritması
 
-Aranacak sayıyı da girmeniz gerekiyor. 
+Aranacak sayıyı da  girmeniz gerekiyor. 
 
 Arama sonucu olarak aranan değerin olup olmadığı, bulunduğu indeks,arama için geçen süre bilgilerini verecektir.
